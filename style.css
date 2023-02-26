@@ -15,6 +15,7 @@ h1 {
 }
 nav {
   text-align: center;
+  word-spacing: 25px;
 }
 h2{
   text-align: center;
@@ -65,3 +66,11 @@ a {
   color: #d62828;
 }
 a:hover{ color: #f77f00 }
+
+footer p {
+  text-align: center;
+}
+
+p {
+  text-align: left;
+}
